@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RookTKO/JammingApp/static/css/main.20ddf284.chunk.css",
-    "main.js": "/RookTKO/JammingApp/static/js/main.879599aa.chunk.js",
-    "main.js.map": "/RookTKO/JammingApp/static/js/main.879599aa.chunk.js.map",
-    "runtime-main.js": "/RookTKO/JammingApp/static/js/runtime-main.aa5d9015.js",
-    "runtime-main.js.map": "/RookTKO/JammingApp/static/js/runtime-main.aa5d9015.js.map",
-    "static/js/2.af7cdc90.chunk.js": "/RookTKO/JammingApp/static/js/2.af7cdc90.chunk.js",
-    "static/js/2.af7cdc90.chunk.js.map": "/RookTKO/JammingApp/static/js/2.af7cdc90.chunk.js.map",
-    "static/js/3.247f7cba.chunk.js": "/RookTKO/JammingApp/static/js/3.247f7cba.chunk.js",
-    "static/js/3.247f7cba.chunk.js.map": "/RookTKO/JammingApp/static/js/3.247f7cba.chunk.js.map",
-    "index.html": "/RookTKO/JammingApp/index.html",
-    "static/css/main.20ddf284.chunk.css.map": "/RookTKO/JammingApp/static/css/main.20ddf284.chunk.css.map",
-    "static/js/2.af7cdc90.chunk.js.LICENSE.txt": "/RookTKO/JammingApp/static/js/2.af7cdc90.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/RookTKO/JammingApp/static/media/background_photo_desktop.a0687f3f.jpg"
+    "main.css": "/JammingApp/static/css/main.1b62f3de.chunk.css",
+    "main.js": "/JammingApp/static/js/main.879599aa.chunk.js",
+    "main.js.map": "/JammingApp/static/js/main.879599aa.chunk.js.map",
+    "runtime-main.js": "/JammingApp/static/js/runtime-main.7c026642.js",
+    "runtime-main.js.map": "/JammingApp/static/js/runtime-main.7c026642.js.map",
+    "static/js/2.af7cdc90.chunk.js": "/JammingApp/static/js/2.af7cdc90.chunk.js",
+    "static/js/2.af7cdc90.chunk.js.map": "/JammingApp/static/js/2.af7cdc90.chunk.js.map",
+    "static/js/3.247f7cba.chunk.js": "/JammingApp/static/js/3.247f7cba.chunk.js",
+    "static/js/3.247f7cba.chunk.js.map": "/JammingApp/static/js/3.247f7cba.chunk.js.map",
+    "index.html": "/JammingApp/index.html",
+    "static/css/main.1b62f3de.chunk.css.map": "/JammingApp/static/css/main.1b62f3de.chunk.css.map",
+    "static/js/2.af7cdc90.chunk.js.LICENSE.txt": "/JammingApp/static/js/2.af7cdc90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/JammingApp/static/media/background_photo_desktop.a0687f3f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa5d9015.js",
+    "static/js/runtime-main.7c026642.js",
     "static/js/2.af7cdc90.chunk.js",
-    "static/css/main.20ddf284.chunk.css",
+    "static/css/main.1b62f3de.chunk.css",
     "static/js/main.879599aa.chunk.js"
   ]
 }
